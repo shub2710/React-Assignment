@@ -1,0 +1,19 @@
+{
+  "name": "assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "next": "9.0.4",
+    "number-to-words": "^1.2.4",
+    "react": "16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-dom": "16.9.0",
+    "react-responsive-carousel": "^3.1.50"
+  }
+}
