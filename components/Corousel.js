@@ -11,7 +11,7 @@ function Corousel(props) {
       {generateArray(currentSelectedSlide).map(slide => {
         return (
           <div key={slide}>
-            <img src="static/images/shaadiImage.jpg" />
+            <img src="https://i.ibb.co/m5b9VJ5/shaadi-Image.jpg" />
             <h3 className="numberToText">
               {capitalizeFirstLetter(numberToWords.toWords(slide + 1))}
             </h3>
