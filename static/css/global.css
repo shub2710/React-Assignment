@@ -1,0 +1,24 @@
+.content {
+    max-width: 350px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+  }
+  .finish {
+      padding : 20px;
+  }
+  .section1 {
+    white-space: nowrap;
+  }
+  .slides{
+    display: inline-block;
+  }
+  .selectSlide  {
+        color : #007bff;
+        display: inline-block;
+    }
+  .numberToText{
+    margin-bottom: 31px;
+     color:#fff;
+     padding : 7px;
+  }
